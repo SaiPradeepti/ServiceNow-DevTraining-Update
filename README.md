@@ -1,2 +1,4 @@
-1) ServiceNow Basics
-2) Guided App Creator and ServiceNow Studio
+## 1. ServiceNow Basics
+
+  - [x] ServiceNow Basics Objectives
+  
