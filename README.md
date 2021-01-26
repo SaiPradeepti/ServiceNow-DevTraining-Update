@@ -17,3 +17,11 @@
   :white_check_mark: ServiceNow Basics Module Recap
 
 ## 2. Guided App Creator and ServiceNow Studio
+
+  :white_check_mark: Guided App Creator and ServiceNow Studio Objectives
+
+  :white_check_mark: Innovate Application Overview
+
+  :white_check_mark: Developing Apps in Guided App Creator and ServiceNow Studio
+
+
