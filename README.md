@@ -23,5 +23,11 @@
   :white_check_mark: Innovate Application Overview
 
   :white_check_mark: Developing Apps in Guided App Creator and ServiceNow Studio
+  
+  :white_check_mark: Creating an Application
+
+  :white_check_mark: Guided App Creator - General Info Pane
+
+  
 
 
