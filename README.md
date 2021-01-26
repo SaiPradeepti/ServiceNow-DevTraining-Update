@@ -33,6 +33,18 @@
   :white_check_mark: Guided App Creator - Design Pane
 
   :white_check_mark: Exercise: Create the Innovate Application
+  
+  :white_check_mark: Exercise: Design the Innovate Application
+
+  :white_check_mark: ServiceNow Studio
+
+  :white_check_mark: Adding a File to an Application
+
+  :white_check_mark: Adding Fields to a Table
+
+  :white_check_mark: Exercise: Add Fields to the Innovate Table
+
+  :white_check_mark: Guided App Creator and ServiceNow Studio Module Recap
 
   :white_check_mark: Exercise: Add a Table to the Innovate Application
 
