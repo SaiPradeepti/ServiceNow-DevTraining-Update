@@ -33,6 +33,14 @@
   :white_check_mark: Guided App Creator - Design Pane
 
   :white_check_mark: Exercise: Create the Innovate Application
+  
+  :white_check_mark: Application Scope
+
+  :white_check_mark: ServiceNow Studio
+
+  :white_check_mark: Creating an Application
+
+  :white_check_mark: Exercise: Create the Delete Me Application
 
   :white_check_mark: Exercise: Add a Table to the Innovate Application
   
