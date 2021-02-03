@@ -65,6 +65,14 @@
   :white_check_mark: Designing an Application
 
   :white_check_mark: Exercise: The NeedIt Application Design
+  
+  :white_check_mark: Application Scope
+
+  :white_check_mark: ServiceNow Studio
+
+  :white_check_mark: Creating an Application
+
+  :white_check_mark: Exercise: Create the Delete Me Application
 
 
 
