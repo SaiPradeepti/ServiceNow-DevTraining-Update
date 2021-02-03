@@ -48,4 +48,15 @@
 
   :white_check_mark: Guided App Creator and ServiceNow Studio Module Recap
 
+## 3. Build the NeedIt Application
+  
+  :white_check_mark: Build the NeedIt Application Objectives
+
+  :white_check_mark: Introduction to Application Development in ServiceNow
+
+  :white_check_mark: Designing an Application
+
+  :white_check_mark: Exercise: The NeedIt Application Design
+
+
 
