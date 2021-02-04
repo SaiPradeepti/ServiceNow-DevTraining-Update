@@ -85,6 +85,14 @@
   :white_check_mark: Using Studio
 
   :white_check_mark: Adding a File to an Application
+  
+  :white_check_mark: Exercise: Create the NeedIt Table
+
+  :white_check_mark: Modules
+
+  :white_check_mark: Creating and Configuring Modules
+
+  :white_check_mark: Exercise: Create NeedIt Modules
 
 
 
