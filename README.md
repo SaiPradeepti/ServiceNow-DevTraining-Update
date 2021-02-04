@@ -93,6 +93,16 @@
   :white_check_mark: Creating and Configuring Modules
 
   :white_check_mark: Exercise: Create NeedIt Modules
+  
+  :white_check_mark: Default Lists and Forms
+
+  :white_check_mark: Adding Fields to a Table
+
+  :white_check_mark: Form Designer
+
+  :white_check_mark: Views and Sections
+
+  :white_check_mark: Exercise: Working with Fields
 
 
 
