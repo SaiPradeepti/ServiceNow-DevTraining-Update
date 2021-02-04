@@ -73,6 +73,18 @@
   :white_check_mark: Creating an Application
 
   :white_check_mark: Exercise: Create the Delete Me Application
+  
+  :white_check_mark: Importing an Application from Source Control
+
+  :white_check_mark: Exercise: Create the NeedIt Application from Source Control
+
+  :white_check_mark: Exercise: Create a Branch for the Create NeedIt Application
+
+  :white_check_mark: Tables
+
+  :white_check_mark: Using Studio
+
+  :white_check_mark: Adding a File to an Application
 
 
 
