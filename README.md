@@ -103,6 +103,16 @@
   :white_check_mark: Views and Sections
 
   :white_check_mark: Exercise: Working with Fields
+  
+  :white_check_mark: Exercise: Sections and Views
+
+  :white_check_mark: Exercise: Save Your Create NeedIt Application Work (Optional)
+
+  :white_check_mark: Test Your Build the NeedIt Application Knowledge
+
+  :white_check_mark: Build the NeedIt Application Module Recap
+
+  :white_check_mark: After Completing Build the NeedIt Application, You Might Also Be Interested In...
 
 
 
