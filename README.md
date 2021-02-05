@@ -113,6 +113,20 @@
   :white_check_mark: Build the NeedIt Application Module Recap
 
   :white_check_mark: After Completing Build the NeedIt Application, You Might Also Be Interested In...
+  
+## 4. Introduction to Scripting in ServiceNow
+  
+  :white_check_mark: Introduction to Scripting Objectives
+
+  :white_check_mark: Introduction to ServiceNow Scripting
+
+  :white_check_mark: ServiceNow APIs
+
+  :white_check_mark: ServiceNow Script Editor
+
+  :white_check_mark: Introduction to ServiceNow Scripting Module Recap
+
+  :white_check_mark: After Completing Introduction to ServiceNow Scripting, You Might Also Be Interested In...
 
 
 
